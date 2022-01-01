@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science with Python.
 - 💞️ I’m looking to collaborate on any medical related research projects.
 - 🧬 I know how to create using HTML5, CSS, Javascript, and Python.
-- 📫 How to reach me ikjoteb@pm.me
+- 📫 How to reach me ikjote@pm.me
 
 <!---
 Ikjote-Bhasin/Ikjote-Bhasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
